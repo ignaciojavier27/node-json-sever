@@ -1,0 +1,54 @@
+{
+  "profesores": [
+    {
+      "nombre": "Ignacio",
+      "apellidos": "Núñez Sepúlveda",
+      "materias": [
+        {
+          "nombre": "Angular"
+        },
+        {
+          "nombre": "JavaScript"
+        },
+        {
+          "nombre": "React"
+        }
+      ],
+      "id": "0f1c"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Sergio",
+      "apellidos": "Gonzalez",
+      "promedio": 6.2,
+      "id": "aa16"
+    },
+    {
+      "nombre": "Pedro",
+      "apellidos": "Gonzalez",
+      "promedio": 9.8,
+      "id": "6c33"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Angular",
+      "duracion": 6,
+      "dificultad": "Intermedia",
+      "id": "7ea2"
+    },
+    {
+      "nombre": "JavaScript",
+      "duracion": 4,
+      "dificultad": "Principiante",
+      "id": "a9b0"
+    },
+    {
+      "nombre": "React",
+      "duracion": 8,
+      "dificultad": "Avanzado",
+      "id": "ab8c"
+    }
+  ]
+}
